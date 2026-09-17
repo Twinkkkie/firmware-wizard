@@ -1,0 +1,10 @@
+{
+  "firmware": [
+    {
+      "device": "PiDemo",
+      "version": "1.2.0",
+      "file": "demo_firmware.bin",
+      "sha256": "fbb4d23bd38e58f8843b85e0d361b87b5f8ca66a99d370ded11be7b1374a11d5"
+    }
+  ]
+}
